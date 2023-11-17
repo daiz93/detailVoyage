@@ -1,0 +1,12 @@
+D:\React-Graph-Rest\ClientAPI\Core\bin\Debug\net7.0\Core.deps.json
+D:\React-Graph-Rest\ClientAPI\Core\bin\Debug\net7.0\Core.dll
+D:\React-Graph-Rest\ClientAPI\Core\bin\Debug\net7.0\Core.pdb
+D:\React-Graph-Rest\ClientAPI\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache
+D:\React-Graph-Rest\ClientAPI\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\React-Graph-Rest\ClientAPI\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+D:\React-Graph-Rest\ClientAPI\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+D:\React-Graph-Rest\ClientAPI\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+D:\React-Graph-Rest\ClientAPI\Core\obj\Debug\net7.0\Core.dll
+D:\React-Graph-Rest\ClientAPI\Core\obj\Debug\net7.0\refint\Core.dll
+D:\React-Graph-Rest\ClientAPI\Core\obj\Debug\net7.0\Core.pdb
+D:\React-Graph-Rest\ClientAPI\Core\obj\Debug\net7.0\ref\Core.dll
